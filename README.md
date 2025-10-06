@@ -1,10 +1,6 @@
 # Repositório de Teste ( isso vai ser escrito em negrito e destaque) 👋
-
  É um repositório criado em aula para testar e realizar commits.<br><br>
 Então é isso! :D<br><br>
-![d703648e5db6c2e16201907bc2927951](https://github.com/user-attachments/assets/4db2d953-a56d-4a49-a80f-3c76a23cfcd7)
-<img width="390" height="439" alt="image" src="https://github.com/user-attachments/assets/b8f136e8-04bd-4cad-a6e9-c7cad214f9fc" />
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,5 +10,10 @@ Então é isso! :D<br><br>
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![d703648e5db6c2e16201907bc2927951](https://github.com/user-attachments/assets/4db2d953-a56d-4a49-a80f-3c76a23cfcd7)
+<img width="390" height="439" alt="image" src="https://github.com/user-attachments/assets/b8f136e8-04bd-4cad-a6e9-c7cad214f9fc" />
+
+
 
 
