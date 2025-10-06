@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Repositório de Teste ( isso vai ser escrito em negrito e destaque)
-
-  É um repositório criado em aula para testar e realizar commits.<br><br>
-Então é isso! :D<br><br>
-<img width="264" height="381" alt="image" src="https://github.com/user-attachments/assets/81edd944-0341-4e25-83fc-642f32fe4924" />
-![d703648e5db6c2e16201907bc2927951](https://github.com/user-attachments/assets/7c1040c7-094b-467c-8737-418611472b24)
