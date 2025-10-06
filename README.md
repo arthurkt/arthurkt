@@ -2,17 +2,18 @@
  É um repositório criado em aula para testar e realizar commits.<br><br>
 Então é isso! :D<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Futuro Biólogo;
+- 🏠 Quero morar no Canadá;
+- 😍 Gosto de jogar e cozinhar;
+- 🕷️ Personagem favorito: Homem Aranha;
+- ✝️ Cristo é o caminho a verdade e a vida;
+- 🟥 Cor favorita: Vermelho bordo;
+- ✨ Meio perfeccionista;
+- 🚘 Porshe 911gtr.
 
-![d703648e5db6c2e16201907bc2927951](https://github.com/user-attachments/assets/4db2d953-a56d-4a49-a80f-3c76a23cfcd7)
-<img width="390" height="439" alt="image" src="https://github.com/user-attachments/assets/b8f136e8-04bd-4cad-a6e9-c7cad214f9fc" />
+<img width="471" height="520" alt="image" src="https://github.com/user-attachments/assets/1293c4fe-c439-46af-b54b-9fde44bcb4b8" />
+<img width="219" height="526" alt="image" src="https://github.com/user-attachments/assets/69172d5a-6ef4-4fdf-961f-b3c5acc932a0" />
+
 
 
 
